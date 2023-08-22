@@ -1,0 +1,6 @@
+step1
+Choose a place
+step2
+Choose your order
+step3
+Order your Pizza
