@@ -4,3 +4,5 @@ step2
 Choose your order
 step3
 Order your Pizza
+step 7
+store food
